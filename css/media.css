@@ -1,0 +1,204 @@
+@media (max-width:1399px) {
+    .hero_content h1 {
+        font-size: 42px;
+    }
+
+    .device_content p {
+        padding-right: 0px;
+    }
+
+    .customization p {
+        padding-right: 0px;
+    }
+}
+
+/* ************************1399e********************* */
+@media (max-width:1199px) {
+    .hero_content h1 {
+        font-size: 35px;
+    }
+
+    .hero_content h6 {
+        font-size: 18px;
+    }
+
+    .download {
+        padding: 10px 15px;
+        margin-right: 5px;
+    }
+
+    .features {
+        padding: 10px 15px;
+    }
+
+    .product_item p {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .section_header h1 {
+        font-size: 35px;
+    }
+    .btn_view {
+        padding: 10px 15px;
+        border-radius: 3px;
+        margin-right: 5px;
+        font-size: 15px;
+    }
+    .btn_down {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+}
+
+/* ************************1199e********************* */
+@media (max-width:1024px) {}
+
+/* ************************1024e********************* */
+@media (max-width:991px) {
+    .navbar-nav {
+        text-align: center;
+        line-height: 30px;
+    }
+
+    .phone {
+        display: none;
+    }
+
+    .hero_content {
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
+    .mobile {
+        display: block;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .mobile img {
+        width: 55%;
+    }
+
+    .product_item h3 {
+        font-size: 23px;
+    }
+
+    .price_plane_box a {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+
+    .price_plane_box h2 {
+        font-size: 28px;
+    }
+
+    .amount_block h1 {
+        font-size: 55px;
+    }
+
+    .price_plane_box p {
+        padding: 15px 5px;
+    }
+
+    .price_plane_box a {
+        margin-bottom: 25px;
+    }
+    .like h3 {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .like_btn {
+        text-align: center;
+    }
+}
+
+/* ************************991e********************* */
+@media (max-width:767px) {
+    .product_item {
+        margin-bottom: 40px;
+    }
+
+    .section_header h6 {
+        font-size: 20px;
+    }
+
+    .btn_view {
+        padding: 10px 15px;
+        margin-right: 10px;
+        font-size: 14px;
+    }
+
+    .btn_down {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
+    .price_plane_box {
+        margin-bottom: 25px;
+    }
+
+    .pricing_plan {
+        padding-bottom: 0;
+    }
+}
+
+/* ************************767e********************* */
+@media (max-width:575px) {
+    .download {
+        padding: 10px 10px;
+        margin-right: 5px;
+        font-size: 14px;
+    }
+
+    .features {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+
+    .device_img img {
+        width: 80%;
+    }
+
+    .btn_form {
+        padding: 10px 15px;
+    }
+
+    .owl-dots .owl-dot span {
+        width: 7px;
+        height: 7px;
+        margin: 0px 5px;
+    }
+
+    .owl-dots .active span {
+        width: 8px !important;
+        height: 8px !important;
+    }
+
+    .team_wrapper {
+        justify-content: center;
+    }
+
+    .social_icon ul li {
+        margin: 0 12px;
+    }
+
+    .contact_form {
+        padding: 50px 15px;
+    }
+
+    .navbar-brand {
+        width: 135px;
+    }
+    .price_plane_box p {
+        padding: 20px 5px;
+    }
+    .price_plane_box {
+        padding-bottom: 30px;
+    }
+    .price_plane_box a {
+        margin: 10px 0;
+    }
+}
+
+/* ************************575e********************* */
